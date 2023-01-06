@@ -23,6 +23,3 @@ Run the file as normal -
 
 You Are free to Modify and edit this script to suit your needs. You may redistribute 
 this script crediting the original Author: randomxusr
-
-All rights reserved.
-
