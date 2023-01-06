@@ -2,7 +2,7 @@ Welcome.sh is a simple script that Welcomes a user
 
 And prints some useful system information for quick referene.
 
-You may Distribute and use this script according to the GPLv2
+You may Distribute and use this script according to the GPLv3
 
 This script is original to extent of the tools arranged and the options
 with which are used to output the information targetted by the script.
