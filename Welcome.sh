@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This is a Welcome script designed to provide some using system information to users.
-#All rights reserved, randomxusr
+# Author: randomxusr
 
 #Display a Welcome message to the user
 
