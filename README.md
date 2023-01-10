@@ -1,5 +1,7 @@
-Welcome.sh is a simple script that Welcomes a user
+Info Scripts is a WIP.
+These are meant to be both fun and educational.
 
+Welcome.sh is a simple script that Welcomes a user
 And prints some useful system information for quick referene.
 
 You may Distribute and use this script according to the GPLv3
@@ -20,6 +22,20 @@ chmod +x Welcome.sh
 
 Run the file as normal -
 ./Welcome.sh from the command line.
+
+******************************************************************************************
+MatrixInfo.sh opens with the neo-matrix tool, with a message displayed, ends,
+and then displays the Following:
+
+- Hostname
+- Kernel Version
+- Public and Private IP
+- Outut of hostnamectl
+
+In order for net-matrix to display without issues; you must ensure that it's installed on your system, along with
+the appropriate fonts. Please refer to your distribution for installation details of net-matrix.
+
+As always, to run the script do chmod +x MatrixInfo.sh
 
 You Are free to Modify and edit this script to suit your needs. You may redistribute 
 this script crediting the original Author: randomxusr
