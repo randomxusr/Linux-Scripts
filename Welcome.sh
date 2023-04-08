@@ -10,7 +10,7 @@ echo "**************************************************Welcome $(whoami)*******
 #output the date
 echo "The date is: $(date +"%a %B %d")"
 
-#outpuut the Time
+#output the Time
 echo "Local time is: $(date +"%r")"
 
 echo \
