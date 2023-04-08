@@ -32,8 +32,8 @@ and then displays the Following:
 - Public and Private IP
 - Outut of hostnamectl
 
-In order for net-matrix to display without issues; you must ensure that it's installed on your system, along with
-the appropriate fonts. Please refer to your distribution for installation details of net-matrix.
+In order for neo-matrix to display without issues; you must ensure that it's installed on your system, along with
+the appropriate fonts. Please refer to your distribution for installation details of neo-matrix.
 
 As always, to run the script do chmod +x MatrixInfo.sh
 
